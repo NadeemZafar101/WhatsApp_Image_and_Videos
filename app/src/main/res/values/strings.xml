@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhatappViedos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--    test app Id-->
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <!--  real app Id-->
+    <!--    <string name="app_id"></string>-->
+</resources>
